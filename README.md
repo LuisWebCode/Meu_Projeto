@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -70,11 +69,8 @@
 </html>
 
 
-CSS
 
-
-
- body {
+body {
       font-family: Arial, sans-serif;
       margin: 20px;
       background-color: #f4f4f4;
@@ -115,4 +111,3 @@ CSS
     .form-group button:hover {
       background-color: #45a049;
     }
-
